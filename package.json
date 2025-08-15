@@ -6,7 +6,7 @@
   "description": "A WhatsApp Bot Created By Othiniel Katech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CRISS-AI",
+    "start": "pm2 start index.js --deep-monitoring --attach --name CASCADEUR-XD",
     "stop": "pm2 stop CASCADEUR-XD",
     "restart": "pm2 restart CASCADEUR-XD"
   },
